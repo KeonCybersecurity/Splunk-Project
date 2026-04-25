@@ -1,0 +1,1 @@
+Simulated SOC analyst project for Virtual Space Industries (VSI) involving detection and analysis of suspected cyberattacks. Utilized Splunk to monitor Windows and Apache server logs, identify malicious activity, investigate incidents, and evaluate the effectiveness of security monitoring controls.
